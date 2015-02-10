@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yc_ui_viewpager_guideview</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="strPoint">小圆点</string>
+
+</resources>
